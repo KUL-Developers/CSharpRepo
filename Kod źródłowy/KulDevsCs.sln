@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.25618.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Zmienne_i_operatory", "01_Zmienne_i_operatory\01_Zmienne_i_operatory.csproj", "{094A97CB-788F-4867-A2B9-0F4751C90085}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_SterowaniePrzeplywemDanych_i_petle", "02_SterowaniePrzeplywemDanych_i_petle\02_SterowaniePrzeplywemDanych_i_petle.csproj", "{39179DE7-5ED5-4F49-A266-253722F59CA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{094A97CB-788F-4867-A2B9-0F4751C90085}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{094A97CB-788F-4867-A2B9-0F4751C90085}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{094A97CB-788F-4867-A2B9-0F4751C90085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39179DE7-5ED5-4F49-A266-253722F59CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39179DE7-5ED5-4F49-A266-253722F59CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39179DE7-5ED5-4F49-A266-253722F59CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39179DE7-5ED5-4F49-A266-253722F59CA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
